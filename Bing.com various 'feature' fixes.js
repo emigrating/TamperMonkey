@@ -13,7 +13,7 @@
     'use strict';
 
     // Change the ScrollToTop feature.
-    var newAwayTimeThreshold = 1000--; //Replace 100000 with your desired Threshold. Once reached it will scroll to the top. Bad Bing.
+    var newAwayTimeThreshold = 100000; //Replace 100000 with your desired Threshold. Once reached it will scroll to the top. Bad Bing.
     window.AwayTimeThreshold = newAwayTimeThreshold;
     console.log('AwayTimeThreshold modified to', newAwayTimeThreshold, 'seconds.');
 

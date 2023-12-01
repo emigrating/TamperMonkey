@@ -1,10 +1,15 @@
 // ==UserScript==
 // @name         EZtv ad removal
 // @namespace    http://senseitweb.com/
-// @version      1.0.0
-// @description  Tries to stop the on-top ads taking over EZtv.
+// @version      1.0.2
+// @description  Tries to stop the on-top ads taking over EZtv. Now includes 1337x support.
 // @author       Arne Helseth
-// @match        http*://eztv.re/*
+// @match        http*://eztvx.to/*
+// @match        http*://eztv.ag/*
+// @match        http*://eztv.it/*
+// @match        http*://eztv.ch/*
+// @match        http*://eztv.li/*
+// @match        http*://1337x.to/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=eztv.re
 // @grant        none
 // ==/UserScript==
